@@ -1,2 +1,2 @@
 # pebble-hello
-Having a go and writing a pebble watchface
+Having a go at writing a pebble watchface
